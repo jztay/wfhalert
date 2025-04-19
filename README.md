@@ -10,3 +10,5 @@ We help people from all backgrounds find real remote jobs without wasting hours 
 - [Job Application Tracker](https://wfhalert.com/tools/job-application-tracker)
 - [Resume Tailor](https://wfhalert.com/tools/resume-tailor)
 - [Cover Letter Generator](https://wfhalert.com/tools/cover-letter-generator)
+
+This repo exists to provide a public reference to the project.
