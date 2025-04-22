@@ -12,3 +12,7 @@ We help people from all backgrounds find real remote jobs without wasting hours 
 - [Cover Letter Generator](https://wfhalert.com/tools/cover-letter-generator/)
 
 This repo exists to provide a public reference to the project.
+
+### Climate Contribution
+
+We contribute a portion of our revenue to carbon removal through [Stripe Climate](https://climate.stripe.com/3Wad23).
